@@ -1,3 +1,5 @@
+![buy](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/2c0bfe52-fe87-4c9f-8350-559423b5002c)
+
 ## Table of contents
 - [Project Description](#project-description)
 - [Tools and Plugins](#tools-and-plugins)
@@ -31,12 +33,12 @@
 ## Featues and Screenshots
 - Once you install and open the application, you will get to the **Onboarding screen** which carries information about the application. And this screen is only appearing after the installation.
   
- ![on1](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/1db61824-0a84-45e1-a149-ddff473558ce) &nbsp; &nbsp; ![on2](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/d6565c9f-83e2-4ba0-ae4c-9a7252d85f29) &nbsp; &nbsp;![on3](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/801af653-6381-4788-84d1-d8f3d3d7fbb6)
+ ![on1](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/1db61824-0a84-45e1-a149-ddff473558ce)> &nbsp; &nbsp; ![on2](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/d6565c9f-83e2-4ba0-ae4c-9a7252d85f29) &nbsp; &nbsp;![on3](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/801af653-6381-4788-84d1-d8f3d3d7fbb6)
 
 
 
 - Now, You can **Login** or **Sign up**. And then, you'll be landed on the **Home Screen**.
-
+- 
   ![login](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/a9c7c95c-d58f-4c00-8e24-cc5c72e9d751) &nbsp; &nbsp;![signup](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/a5d68247-aa96-4836-8f08-aeb2503a504d) &nbsp; &nbsp; ![1](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/ff7bbf14-d723-42e4-baa0-a1de8b682050)
 
   
