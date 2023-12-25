@@ -33,36 +33,41 @@
 ## Featues and Screenshots
 - Once you install and open the application, you will get to the **Onboarding screen** which carries information about the application. And this screen is only appearing after the installation.
   
- ![on1](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/1db61824-0a84-45e1-a149-ddff473558ce)> &nbsp; &nbsp; ![on2](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/d6565c9f-83e2-4ba0-ae4c-9a7252d85f29) &nbsp; &nbsp;![on3](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/801af653-6381-4788-84d1-d8f3d3d7fbb6)
+<img width="852" alt="Screenshot 2023-12-25 133906" src="https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/e841b1a0-bffc-4ffe-8d2d-22fcbceccdb8">
+
 
 
 
 - Now, You can **Login** or **Sign up**. And then, you'll be landed on the **Home Screen**.
 - 
-  ![login](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/a9c7c95c-d58f-4c00-8e24-cc5c72e9d751) &nbsp; &nbsp;![signup](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/a5d68247-aa96-4836-8f08-aeb2503a504d) &nbsp; &nbsp; ![1](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/ff7bbf14-d723-42e4-baa0-a1de8b682050)
+<img width="865" alt="Screenshot 2023-12-25 134223" src="https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/15faba3c-2fcc-4ad9-951f-9b23df9a324a">
 
   
 - You can add any product to favorites and it will appear immediately in the **Favorites Screen**. And then, maybe you want to break my heart to remove product from the list but... it's Already Broken.
 
-  ![2](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/fc12bd8e-636c-4824-9c2e-2d40b80f5587) &nbsp; &nbsp; ![4](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/ed748392-f5c8-4ead-bfdf-18ac404fbe3b) &nbsp; &nbsp; ![Uploading 6.png…]()
+ <img width="865" alt="Screenshot 2023-12-25 134610" src="https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/cd62d0c3-65c5-4bd3-81a8-8cc01f6179c2">
+
 
 
 - You can then veiw the product categories and see your profile.
   
- ![3](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/9a390b9c-decf-42db-ac6b-9aec75232a97) &nbsp; &nbsp;
+<img width="865" alt="Screenshot 2023-12-25 134829" src="https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/ab7cc26e-18a6-49d2-97f0-936bea117400">
+
   
 - Press **Edit Profile** if you want to make changes.
   
-  ![7](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/752ba668-e7e2-47ef-9157-06f7b8e8ca5d) &nbsp; &nbsp; ![8](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/558aa9c0-0ae5-484d-be2a-9b43ff93693e) &nbsp; &nbsp;
-  
+  <img width="864" alt="Screenshot 2023-12-25 135946" src="https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/8dfda819-0f30-45fa-b7f2-cef15b3230b9">
+
 - Turn the **Dark Mode** On to let your eyes rest and see this master piece.
   
-  ![dark2](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/c8177c57-c4e1-4015-ada0-87993021b619)  &nbsp; &nbsp; ![dark3](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/186a5549-c74b-4578-b6ba-bb41bc910eaa)  &nbsp; &nbsp; ![dark4](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/679a02e0-4ed7-4195-8558-a95b97ff1b4f)
+<img width="864" alt="Screenshot 2023-12-25 140337" src="https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/c46ae741-941d-41bb-9bd1-fd9c83620792">
+
 
   
 - You Can Change the language of the products.
 
 - Finally, It's **responsive**!
 
-![res1](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/d7c7e652-f34b-4303-bc0b-bfa6ef63bd26) &nbsp; &nbsp;  ![res2](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/729e0adc-294e-4c3d-9e90-f1b488a30f0d) &nbsp; &nbsp; ![res3](https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/f39feb6a-036c-45ed-aff6-8f14a1d63e37)
+<img width="864" alt="Screenshot 2023-12-25 140624" src="https://github.com/mohamed-essam-abdelkaream/buy_me/assets/75342235/5cb5a085-15b8-4b54-9faa-305e4ac79c48">
+
 
